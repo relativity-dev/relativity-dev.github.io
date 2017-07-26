@@ -11,3 +11,8 @@ To add a new organization, insert the organization object at the end of the arra
 - kcura
 - development partners
 - open source community
+
+## Source Code
+The source code for this application can be found at: https://github.com/relativity-dev/relativity-dev.github.io. 
+
+

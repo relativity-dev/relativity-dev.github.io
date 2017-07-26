@@ -1,0 +1,16 @@
+﻿
+[
+    {
+        "org": "kcura",
+        "repository": "relativity-templates"
+    },
+    {
+        "org": "kcura",
+        "repository": "custom-auth-site"
+    },
+    {
+        "org": "kcura",
+        "repository": "application-parser"
+    }
+]
+

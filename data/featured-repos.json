@@ -1,16 +1,19 @@
-﻿
-[
+﻿[
     {
-        "org": "kcura",
-        "repository": "relativity-templates"
+        "org": "relativity",
+        "repository": "relativity-test-helpers"
     },
     {
-        "org": "kcura",
-        "repository": "custom-auth-site"
+        "org": "relativity",
+        "repository": "markup-utilities"
     },
     {
-        "org": "kcura",
-        "repository": "application-parser"
+        "org": "relativity",
+        "repository": "field-finder"
+    },
+    {
+        "org": "relativity",
+        "repository": "processing-assistant"
     }
 ]
 
